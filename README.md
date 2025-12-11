@@ -20,10 +20,10 @@ In this project:
 ##  How to Run
 
 1. **Compile the Java code:**
-
-```bash
+   
 javac Blackjack.java
 
+```bash
 Run the game:
 
 java Blackjack
@@ -36,19 +36,10 @@ Enter s or stand → to stop taking cards (Stand)
 
 After each round, you can choose to play again.```
 
-
-## Features
-Simple console-based gameplay, no GUI required.
-
-Handles multiple rounds with replay option.
-
-Automatic Ace value adjustment.
-
-Easy to read and modify Java code — great for learning object-oriented programming.
-
-----
+-----------
+```
 
 ## Author
 
-**Maryam Narimi**
+** Maryam Narimi **
 
