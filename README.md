@@ -41,5 +41,5 @@ After each round, you can choose to play again.```
 
 ## Author
 
-** Maryam Narimi **
+**Maryam Narimi**
 
