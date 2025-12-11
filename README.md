@@ -34,9 +34,7 @@ Enter h or hit → to take another card (Hit)
 
 Enter s or stand → to stop taking cards (Stand)
 
-After each round, you can choose to play again.```
-
------------
+After each round, you can choose to play again.
 ```
 
 ## Author
